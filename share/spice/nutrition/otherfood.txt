@@ -8,3 +8,9 @@ ice cream
 icecream
 noodle
 tofu
+rice
+bulgur
+bagle
+toast
+croissant
+muffin
